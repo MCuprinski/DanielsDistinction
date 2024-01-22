@@ -2,42 +2,68 @@
 <i>Madison Cuprinski-March 2024-Business Information and Analytics</i>
 <br><br>
 
-[<img src="https://github.com/MCuprinski/DanielsDistinction/assets/118782659/299fb574-d503-4c78-acc1-2d3d74616da1" height="40"/>](#ComInter)
-[<img src="https://github.com/MCuprinski/DanielsDistinction/assets/118782659/782ef1f5-fdef-4c1f-800b-0d8b2d830965" height="40"/>](#Leader)
+[<img src="https://github.com/MCuprinski/DanielsDistinction/assets/118782659/739f06cf-cd84-46ae-9915-cd8a3eac7e0f" height="40"/>](#ComInter)
+[<img src="https://github.com/MCuprinski/DanielsDistinction/assets/118782659/825951ec-66de-4a4f-84f6-2b6a8033db4e" height="40"/>](#Leader)
 <br>
-[<img src="https://github.com/MCuprinski/DanielsDistinction/assets/118782659/c2467948-9466-44d3-87df-7e49903bb2cc" height="36"/>](#Ethics)
-[<img src="https://github.com/MCuprinski/DanielsDistinction/assets/118782659/d1540934-3afd-4866-9eb6-452564487ddf" height="36"/>](#Critical)
-[<img src="https://github.com/MCuprinski/DanielsDistinction/assets/118782659/7cbd1efc-6914-4d77-b716-915c687a6c5a" height="36"/>](#Global)
+[<img src="https://github.com/MCuprinski/DanielsDistinction/assets/118782659/c2467948-9466-44d3-87df-7e49903bb2cc" height="40"/>](#Ethics)
+[<img src="https://github.com/MCuprinski/DanielsDistinction/assets/118782659/d1540934-3afd-4866-9eb6-452564487ddf" height="40"/>](#Critical)
+[<img src="https://github.com/MCuprinski/DanielsDistinction/assets/118782659/7cbd1efc-6914-4d77-b716-915c687a6c5a" height="40"/>](#Global)
+[<img src="https://github.com/MCuprinski/DanielsDistinction/assets/118782659/d29f893b-a363-4488-b864-83b9b070671b" height="40"/>](#Technical)
 
+<a name="Technical"></a>
+<hr>
+
+# Technical Skills
+Throughout my time at Daniels, I had the unique opportunity to learn many different programming languages for database management. These included Tableau, Alteryx, JMP, Python, VBA, and many more. I have also learned R and LaTex through mathematics courses I have taken while completing my mathematics minor. Additionally, I received my certification in Microsoft Word, PowerPoint, advanced Excel, and Access. Throughout my career, I have been able to use these languages to solve real business problems. For example, I use R in my Sports Analytics class to predict who would be the season champion of college basketball:
+
+I also used Tableau to perform sentiment analysis for Amazon reviews:
+
+
+<br><br>
 
 <a name="ComInter"></a>
 <hr>
 
 # Communication and Interpersonal Effectiveness
+For the past three years, I have been working as a teaching assistant for the Microsoft certification labs here at Daniels. This opportunity allowed me to teach and conduct classes to help students become certified in Word, PowerPoint, and Excel. This has helped me not only to develop my skills in public speaking but also help me connect with hundreds of students. This has taught me how to communicate my message to people of all different backgrounds and experience levels. My most proud accomplishment is seeing my students receive their certification at the end of our ten weeks together, and become ready to enter into the business world.
 
+During the summer of 2023, I was also an intern at KPMG, on their data and analytics team. Since KPMG is a consulting firm, I worked with many different clients from various sectors. This internship challenged me in new ways, as it required me to connect not only with my fellow co-workers but also with clients. My time at the University of Denver helped give me the technical skills I needed for this role, but I was also challenged to develop creative solutions to daily business problems. Overall, it was an amazing experience, that taught me not only about data and analytics but also about how to connect with people and get my message across. 
 <br><br>
 
 <a name="Leader"></a>
 <hr>
 
 # Community Engagement and Leadership
+When connecting with my community, one experience that was significant to me was volunteering at Urban Peak. Urban Peak is a shelter that provides services to youth experiencing homelessness. As a part of KPMG's Community Involvement Day, and some of my fellow co-workers went to Urban Peak to help organize their supplies and play board games with the youth. It was amazing to work with such an inspiring company, that strived to help those struggling in the community. It was an unforgettable experience, that will stay with me.
+
+I also connected with my community through my time as a Training and Developing intern at Watchfire Signs, in Danville, Illinois. One event that I helped organize was their career day, where people from around the area came to the company for a guaranteed interview. As a part of this event, I helped interview potential candidates. While this was not my first time interviewing, it was unique in the way that I got to meet so many people from a community I had only just become a part of. It was impactful hearing people's stories and understanding their career history. I was able to help many local people become hired and connect with my community in a special way.
 <br><br>
 
 <a name="Ethics"></a>
 <hr>
 
 # Ethical Decision Making
+Through Daniels, all students must participate in the Ethics Bootcamp. This is a two-day event, which all students taking the Foundations of Business Law course must attend, to listen to local community leaders discuss how ethics play an important role in our current business world. While I attended this boot camp during my time as a freshman, I also helped out as a leader during my second year. Through this experience, I helped my group learn about business ethics, and connect what we were learning to real-world business scenarios. While I enjoyed my time as a participant, I enjoyed my time as a leader more, as I was able to connect with students and gain a deeper understanding of business ethics. 
 <br><br>
 
 <a name="Critical"></a>
 <hr>
 
 # Critical Thinking
+Within the data and analytics classes offered at Daniels, there is a database project, that we work on for about a year. For my project, I decided to create a database for a makeup brand. This project started in Access, as a small diagram with very few data points:
+
+From here, we transferred it to SQL Server, where we added significantly more data, and created new tables and relations, ending with this chart.
+
+The final phase was transferring this database to PowerBI, to create visualizations with the data and bring valuable business insights. Through this project challenged me, and at times frustrated me, being able to create my end visualizations made it feel worth all the struggle. This project took lots of creative problem-solving, and numerous trials and errors, but the knowledge I am able to take away from it in the end has more than prepared me for my future career. 
+
+
+I also want to highlight the senior capstone I completed for BIA last spring. For this project, we worked with the City and County of Denver to figure out how to attract more people to downtown Denver. By using all the skills I learned through the BIA degree, I was able to apply my knowledge to a real scenario and create an educated argument for our solution. It was an incredible opportunity to work with them and gave me the confidence to apply what I had learned in the classroom to a real-world problem.
 <br><br>
 
 <a name="Global"></a>
 <hr>
 
 # Global Competence
+To finish off, during my senior year, I was able to study at Maastricht University, in Maastricht, Netherlands. During my time there, I was able to learn about the psychology of leadership, digitization, and Dutch art history. In addition to my studies, I also traveled to seven different countries. I was able to experience such unique cultures, from the beautiful art of Italy to the stunning mountains of Switzerland. I am forever grateful for this experience, without a school like the University of Denver, I would have never been able to grow the way I have. I am excited to continue traveling and learn even more about different cultures and ways of life. 
 <br><br>
 
