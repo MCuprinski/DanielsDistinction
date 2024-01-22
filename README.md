@@ -14,10 +14,30 @@
 <hr>
 
 # Communication and Interpersonal Effectiveness
+
 <br><br>
+
 <a name="Leader"></a>
 <hr>
 
 # Community Engagement and Leadership
+<br><br>
 
+<a name="Ethics"></a>
+<hr>
+
+# Ethical Decision Making
+<br><br>
+
+<a name="Critical"></a>
+<hr>
+
+# Critical Thinking
+<br><br>
+
+<a name="Global"></a>
+<hr>
+
+# Global Competence
+<br><br>
 
