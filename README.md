@@ -14,12 +14,15 @@
 <hr>
 
 # Technical Skills
-Throughout my time at Daniels, I had the unique opportunity to learn many different programming languages for database management. These included Tableau, Alteryx, JMP, Python, VBA, and many more. I have also learned R and LaTex through mathematics courses I have taken while completing my mathematics minor. Additionally, I received my certification in Microsoft Word, PowerPoint, advanced Excel, and Access. Throughout my career, I have been able to use these languages to solve real business problems. For example, I use R in my Sports Analytics class to predict who would be the season champion of college basketball:
+Throughout my time at Daniels, I had the unique opportunity to learn many different programming languages for database management. These included Tableau, Alteryx, JMP, Python, VBA, and many more. I have also learned R and LaTex through mathematics courses I have taken while completing my mathematics minor. Additionally, I received my certification in Microsoft Word, PowerPoint, advanced Excel, and Access. Throughout my career, I have been able to use these languages to solve real business problems. For example, I utilized R in my Sports Analytics class to create the following visualizations to predict who would be the season champion of college basketball:
 ![Sports1](https://github.com/MCuprinski/DanielsDistinction/assets/118782659/3d2afe02-9929-4a89-a6ba-8b0eed2c793b)
 ![Sports2](https://github.com/MCuprinski/DanielsDistinction/assets/118782659/cb12b8e3-4a3c-43ef-b643-7a670978d052)
 ![Sports3](https://github.com/MCuprinski/DanielsDistinction/assets/118782659/7380ee1b-2934-4931-a717-788809c561f2)
 <br>
-As an example of my experience with ALteryx, I have also conducted sentiment analysis on hotel reviews in TripAdvisor:
+As an example of my experience with ALteryx, I have also conducted sentiment analysis on hotel reviews on TripAdvisor. The following visualizations are key insights I was able to pull out:
+![World Cloud](https://github.com/MCuprinski/DanielsDistinction/assets/118782659/d6e98ad2-3039-4f42-8496-206bba5c0577)
+![Bar chart](https://github.com/MCuprinski/DanielsDistinction/assets/118782659/b18f9c84-6b63-41ec-a53d-b69be619770e)
+![Bar Chart 2](https://github.com/MCuprinski/DanielsDistinction/assets/118782659/b1732a90-4bce-44f0-aa09-859e2f1b2f61)
 
 
 
@@ -54,7 +57,8 @@ Through Daniels, all students must participate in the Ethics Bootcamp. This is a
 <hr>
 
 # Critical Thinking
-Within the data and analytics classes offered at Daniels, there is a database project, that we work on for about a year. For my project, I decided to create a database for a makeup brand. This project started in Access, as a small diagram with very few data points:
+Within the data and analytics classes offered at Daniels, there is a database project, that we work on for about a year. For my project, I decided to create a database for a makeup brand. This project started in Access, as a small diagram with around 500 data points. The following is the database diagram create in Microsoft Access:
+
 
 From here, we transferred it to SQL Server, where we added significantly more data, and created new tables and relations, ending with this chart.
 
