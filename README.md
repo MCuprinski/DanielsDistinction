@@ -57,15 +57,18 @@ Through Daniels, all students must participate in the Ethics Bootcamp. This is a
 <hr>
 
 # Critical Thinking
-Within the data and analytics classes offered at Daniels, there is a database project, that we work on for about a year. For my project, I decided to create a database for a makeup brand. This project started in Access, as a small diagram with around 500 data points. The following is the database diagram create in Microsoft Access:
+Within the data and analytics classes offered at Daniels, there is a database project, that we work on for about a year. For my project, I decided to create a database for a makeup brand. This project started in Access, as a small diagram with around 500 data points. The following is the database diagram I created in Microsoft Access:
+![INFO3140Final](https://github.com/MCuprinski/DanielsDistinction/assets/118782659/8d355b7b-6cd3-41b6-8ed2-8b76010d4241)
+
+From here, we transferred it to SQL Server, where we added significantly more data, and created new tables and relations, ending with this chart in Visual Studio
+![INFO3240FInal](https://github.com/MCuprinski/DanielsDistinction/assets/118782659/23b611ca-0fb0-4094-a736-c2ee9a933e49)
+
+The final phase transforming this database to a star schema and then transferring it to PowerBI, to create visualizations with the data and bring valuable business insights. Through this project challenged me, and at times frustrated me, being able to create my end visualizations made it feel worth all the struggle. This project took lots of creative problem-solving, and numerous trials and errors, but the knowledge I can take away from it in the end has more than prepared me for my future career. The following is the final dashboard that I created for this database:
+![INFO3300Final](https://github.com/MCuprinski/DanielsDistinction/assets/118782659/3f3c60f7-c9b7-410b-9aa9-bc6f77884e7d)
 
 
-From here, we transferred it to SQL Server, where we added significantly more data, and created new tables and relations, ending with this chart.
-
-The final phase was transferring this database to PowerBI, to create visualizations with the data and bring valuable business insights. Through this project challenged me, and at times frustrated me, being able to create my end visualizations made it feel worth all the struggle. This project took lots of creative problem-solving, and numerous trials and errors, but the knowledge I am able to take away from it in the end has more than prepared me for my future career. 
-
-
-I also want to highlight the senior capstone I completed for BIA last spring. For this project, we worked with the City and County of Denver to figure out how to attract more people to downtown Denver. By using all the skills I learned through the BIA degree, I was able to apply my knowledge to a real scenario and create an educated argument for our solution. It was an incredible opportunity to work with them and gave me the confidence to apply what I had learned in the classroom to a real-world problem.
+I also want to highlight the senior capstone I completed for BIA last spring. For this project, we worked with the City and County of Denver to figure out how to attract more people to downtown Denver. By using all the skills I learned through the BIA degree, I was able to apply my knowledge to a real scenario and create an educated argument for our solution. It was an incredible opportunity to work with them and gave me the confidence to apply what I had learned in the classroom to a real-world problem. The following is another dashboard I have created in PowerBI, which compares rent prices in Denver to similar cities:
+![INFO3500Final](https://github.com/MCuprinski/DanielsDistinction/assets/118782659/d2385ace-91ed-48f7-a9e7-03b89bf46f03)
 <br><br>
 
 <a name="Global"></a>
