@@ -15,8 +15,12 @@
 
 # Technical Skills
 Throughout my time at Daniels, I had the unique opportunity to learn many different programming languages for database management. These included Tableau, Alteryx, JMP, Python, VBA, and many more. I have also learned R and LaTex through mathematics courses I have taken while completing my mathematics minor. Additionally, I received my certification in Microsoft Word, PowerPoint, advanced Excel, and Access. Throughout my career, I have been able to use these languages to solve real business problems. For example, I use R in my Sports Analytics class to predict who would be the season champion of college basketball:
+![Sports1](https://github.com/MCuprinski/DanielsDistinction/assets/118782659/3d2afe02-9929-4a89-a6ba-8b0eed2c793b)
+![Sports2](https://github.com/MCuprinski/DanielsDistinction/assets/118782659/cb12b8e3-4a3c-43ef-b643-7a670978d052)
+![Sports3](https://github.com/MCuprinski/DanielsDistinction/assets/118782659/7380ee1b-2934-4931-a717-788809c561f2)
+<br>
+As an example of my experience with ALteryx, I have also conducted sentiment analysis on hotel reviews in TripAdvisor:
 
-I also used Tableau to perform sentiment analysis for Amazon reviews:
 
 
 <br><br>
