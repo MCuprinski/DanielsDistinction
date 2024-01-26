@@ -42,13 +42,14 @@ During the summer of 2023, I was also an intern at KPMG, on their data and analy
 <hr>
 
 # Community Engagement and Leadership
-When connecting with my community, one experience that was significant to me was volunteering at Urban Peak. Urban Peak is a shelter that provides services to youth experiencing homelessness. As a part of KPMG's Community Involvement Day, some of my co-workers and I went to Urban Peak to help organize their supplies and connect with some of the kids ther. It was amazing to work with such an inspiring company that strived to help those struggling in the community. It was an unforgettable experience, that will stay with me.
+When connecting with my community, one experience that was significant to me was volunteering at Urban Peak. Urban Peak is a shelter that provides services to youth experiencing homelessness. As a part of KPMG's Community Involvement Day, some of my co-workers and I went to Urban Peak to help organize their supplies and connect with some of the kids there. It was amazing to work with such an inspiring company that strived to help those struggling in the community. It was an unforgettable experience, that will stay with me.
 <br>
 ![UrbanPeakLogo](https://github.com/MCuprinski/DanielsDistinction/assets/118782659/72ea5cc8-1b77-41bc-955c-093ff8998dec)
 
-I also connected with my community through my time as a Training and Developing intern at Watchfire Signs, in Danville, Illinois. One event that I helped organize was their career day, where people from around the area came to the company for a guaranteed interview. As a part of this event, I helped interview potential candidates. While this was not my first time interviewing, it was unique in the way that I got to meet so many people from a community I had only just become a part of.  It was amazing getting to be a part of the process to help people achieve their career goals.
-![Watchfire](https://github.com/MCuprinski/DanielsDistinction/assets/118782659/fa3b1260-30c7-4f78-989f-ae4273ae1387)
+I also connected with my community through my time as a Training and Developing intern at Watchfire Signs, in Danville, Illinois. One event that I helped organize was their career day, where people from around the area came to the company for a guaranteed interview. As a part of this event, I helped interview potential candidates. While this was not my first time interviewing, it was unique in the way that I got to meet so many people from a community I had only just become a part of.  It was amazing getting to be a part of the process of helping people achieve their career goals.
 <br><br>
+![Watchfire](https://github.com/MCuprinski/DanielsDistinction/assets/118782659/fa3b1260-30c7-4f78-989f-ae4273ae1387)
+
 
 <a name="Ethics"></a>
 <hr>
